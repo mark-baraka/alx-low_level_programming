@@ -1,5 +1,5 @@
 /**
- *A program will assign a random number to the variable
+ *A program will assign a random number to the variable (n) each time it is executed whether the number stored in the variable (n) is positive or negative.
  *The variable n stores a different value every time this program is run
  *The output of the program should be:
  *The number, followed by:
@@ -12,9 +12,11 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Entry
- * Return: Always 0 (success/correct)
-*/
+ * main - print if the number is postive, zero, or negative
+ * Description: using the main function
+ * this program prints "Programming is positive, zero, or negative
+ * Return: 0
+ */
 int main(void)
 {
 	int n;
