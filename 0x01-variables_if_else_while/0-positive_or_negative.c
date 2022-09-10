@@ -1,5 +1,4 @@
 /**
- *
  *A program will assign a random number to the variable  
  *The variable n stores a different value every time this program is run
  *The output of the program should be:
